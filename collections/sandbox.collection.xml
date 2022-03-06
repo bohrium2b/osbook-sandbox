@@ -1,0 +1,17 @@
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
+  <col:metadata>
+    <md:title>Sandbox</md:title>
+    <md:slug>sandbox</md:slug>
+    <md:language>en</md:language>
+    <md:uuid>eaefdaf1-bda0-4ada-a9fe-f1c065bfcc4e</md:uuid>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
+  </col:metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Chapter 0</md:title>
+      <col:content>
+        <col:module document="m00002"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
